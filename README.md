@@ -1,4 +1,9 @@
 # hello-world
 Ejercicio 1 - Creando una repo
 
-Vela 202221361
+Vela Mogollón, 202221361
+
+## Subtitle
+
+- Mr. Floppa
+- Mr. Goose
